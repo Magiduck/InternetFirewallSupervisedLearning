@@ -7,7 +7,7 @@ All justifications and information about the dataset can be found in ```Internet
 1. Install Python3
 ```
 sudo apt-get update
-sudo apt-get install python3.6
+sudo apt-get install python3.7
 ```
 2. Create virtual environment
 ```
